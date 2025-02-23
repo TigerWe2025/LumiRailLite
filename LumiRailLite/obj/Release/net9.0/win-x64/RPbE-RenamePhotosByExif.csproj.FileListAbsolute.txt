@@ -1,0 +1,812 @@
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.exe
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.deps.json
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.runtimeconfig.json
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.pdb
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.Win32.SystemEvents.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Drawing.Common.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.Windows.Core.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.csproj.AssemblyReference.cache
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.AssemblyInfoInputs.cache
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.AssemblyInfo.cs
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.csproj.CoreCompileInputs.cache
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-Ren.BB020B88.Up2Date
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/refint/RPbE-RenamePhotosByExif.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.pdb
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.genruntimeconfig.cache
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/ref/RPbE-RenamePhotosByExif.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.CSharp.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.VisualBasic.Core.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.VisualBasic.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.Win32.Primitives.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.Win32.Registry.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.AppContext.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Buffers.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.Concurrent.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.Immutable.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.NonGeneric.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.Specialized.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.Annotations.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.DataAnnotations.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.EventBasedAsync.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.Primitives.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.TypeConverter.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Configuration.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Console.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Core.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Data.Common.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Data.DataSetExtensions.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Data.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Contracts.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Debug.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.DiagnosticSource.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.FileVersionInfo.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Process.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.StackTrace.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.TextWriterTraceListener.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Tools.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.TraceSource.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Tracing.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Drawing.Primitives.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Drawing.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Dynamic.Runtime.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Formats.Asn1.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Formats.Tar.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Globalization.Calendars.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Globalization.Extensions.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Globalization.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.Brotli.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.FileSystem.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.ZipFile.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.AccessControl.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.DriveInfo.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.Primitives.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.Watcher.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.IsolatedStorage.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.MemoryMappedFiles.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Pipelines.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Pipes.AccessControl.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Pipes.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.UnmanagedMemoryStream.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Linq.Expressions.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Linq.Parallel.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Linq.Queryable.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Linq.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Memory.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Http.Json.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Http.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.HttpListener.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Mail.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.NameResolution.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.NetworkInformation.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Ping.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Primitives.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Quic.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Requests.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Security.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.ServicePoint.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Sockets.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebClient.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebHeaderCollection.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebProxy.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebSockets.Client.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebSockets.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Numerics.Vectors.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Numerics.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ObjectModel.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.CoreLib.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.DataContractSerialization.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.Uri.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.Xml.Linq.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.Xml.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.DispatchProxy.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Emit.ILGeneration.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Emit.Lightweight.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Emit.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Extensions.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Metadata.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Primitives.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.TypeExtensions.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Resources.Reader.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Resources.ResourceManager.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Resources.Writer.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.CompilerServices.Unsafe.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.CompilerServices.VisualC.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Extensions.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Handles.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.InteropServices.JavaScript.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.InteropServices.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Intrinsics.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Loader.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Numerics.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.Formatters.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.Json.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.Primitives.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.Xml.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.AccessControl.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Claims.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Algorithms.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Cng.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Csp.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Encoding.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.OpenSsl.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Primitives.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.X509Certificates.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Principal.Windows.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Principal.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.SecureString.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ServiceModel.Web.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ServiceProcess.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Encoding.CodePages.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Encoding.Extensions.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Encoding.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Encodings.Web.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Json.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.RegularExpressions.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Channels.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Overlapped.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Tasks.Dataflow.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Tasks.Extensions.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Tasks.Parallel.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Tasks.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Thread.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.ThreadPool.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Timer.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Transactions.Local.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Transactions.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ValueTuple.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Web.HttpUtility.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Web.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Windows.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.Linq.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.ReaderWriter.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.Serialization.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XDocument.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XPath.XDocument.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XPath.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XmlDocument.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XmlSerializer.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/WindowsBase.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscorlib.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/netstandard.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.Native.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/clretwrc.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/clrgc.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/clrgcexp.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/clrjit.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/coreclr.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/createdump.exe
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/hostfxr.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/hostpolicy.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscordaccore.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscordaccore_amd64_amd64_9.0.225.6610.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscordbi.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscorrc.dll
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/msquic.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.exe
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.deps.json
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.runtimeconfig.json
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.pdb
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.Win32.SystemEvents.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Drawing.Common.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.Windows.Core.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.CSharp.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.VisualBasic.Core.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.VisualBasic.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.Win32.Primitives.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.Win32.Registry.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.AppContext.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Buffers.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.Concurrent.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.Immutable.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.NonGeneric.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.Specialized.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.Annotations.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.DataAnnotations.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.EventBasedAsync.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.Primitives.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.TypeConverter.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Configuration.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Console.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Core.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Data.Common.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Data.DataSetExtensions.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Data.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Contracts.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Debug.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.DiagnosticSource.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.FileVersionInfo.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Process.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.StackTrace.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.TextWriterTraceListener.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Tools.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.TraceSource.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Tracing.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Drawing.Primitives.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Drawing.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Dynamic.Runtime.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Formats.Asn1.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Formats.Tar.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Globalization.Calendars.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Globalization.Extensions.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Globalization.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.Brotli.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.FileSystem.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.ZipFile.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.AccessControl.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.DriveInfo.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.Primitives.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.Watcher.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.IsolatedStorage.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.MemoryMappedFiles.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Pipelines.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Pipes.AccessControl.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Pipes.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.UnmanagedMemoryStream.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Linq.Expressions.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Linq.Parallel.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Linq.Queryable.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Linq.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Memory.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Http.Json.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Http.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.HttpListener.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Mail.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.NameResolution.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.NetworkInformation.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Ping.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Primitives.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Quic.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Requests.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Security.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.ServicePoint.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Sockets.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebClient.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebHeaderCollection.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebProxy.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebSockets.Client.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebSockets.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Numerics.Vectors.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Numerics.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ObjectModel.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.CoreLib.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.DataContractSerialization.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.Uri.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.Xml.Linq.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.Xml.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.DispatchProxy.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Emit.ILGeneration.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Emit.Lightweight.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Emit.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Extensions.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Metadata.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Primitives.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.TypeExtensions.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Resources.Reader.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Resources.ResourceManager.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Resources.Writer.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.CompilerServices.VisualC.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Extensions.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Handles.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.InteropServices.JavaScript.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.InteropServices.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Intrinsics.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Loader.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Numerics.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.Formatters.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.Json.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.Primitives.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.Xml.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.AccessControl.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Claims.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Algorithms.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Cng.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Csp.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Encoding.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.OpenSsl.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Primitives.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.X509Certificates.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Principal.Windows.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Principal.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.SecureString.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ServiceModel.Web.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ServiceProcess.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Encoding.CodePages.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Encoding.Extensions.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Encoding.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Encodings.Web.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Json.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.RegularExpressions.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Channels.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Overlapped.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Tasks.Dataflow.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Tasks.Extensions.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Tasks.Parallel.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Tasks.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Thread.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.ThreadPool.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Timer.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Transactions.Local.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Transactions.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ValueTuple.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Web.HttpUtility.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Web.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Windows.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.Linq.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.ReaderWriter.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.Serialization.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XDocument.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XPath.XDocument.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XPath.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XmlDocument.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XmlSerializer.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/WindowsBase.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscorlib.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/netstandard.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.Native.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/clretwrc.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/clrgc.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/clrgcexp.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/clrjit.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/coreclr.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/createdump.exe
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/hostfxr.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/hostpolicy.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscordaccore.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscordaccore_amd64_amd64_9.0.124.61010.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscordbi.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscorrc.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/msquic.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.csproj.AssemblyReference.cache
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.AssemblyInfoInputs.cache
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.AssemblyInfo.cs
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.csproj.CoreCompileInputs.cache
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-Ren.BB020B88.Up2Date
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/refint/RPbE-RenamePhotosByExif.dll
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.pdb
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.genruntimeconfig.cache
+C:/Users/frank/OneDrive/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/ref/RPbE-RenamePhotosByExif.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.exe
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.deps.json
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.runtimeconfig.json
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.pdb
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.Win32.SystemEvents.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Drawing.Common.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.Windows.Core.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.CSharp.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.VisualBasic.Core.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.VisualBasic.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.Win32.Primitives.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.Win32.Registry.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.AppContext.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Buffers.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.Concurrent.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.Immutable.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.NonGeneric.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.Specialized.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.Annotations.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.DataAnnotations.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.EventBasedAsync.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.Primitives.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.TypeConverter.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Configuration.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Console.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Core.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Data.Common.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Data.DataSetExtensions.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Data.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Contracts.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Debug.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.DiagnosticSource.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.FileVersionInfo.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Process.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.StackTrace.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.TextWriterTraceListener.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Tools.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.TraceSource.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Tracing.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Drawing.Primitives.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Drawing.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Dynamic.Runtime.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Formats.Asn1.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Formats.Tar.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Globalization.Calendars.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Globalization.Extensions.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Globalization.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.Brotli.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.FileSystem.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.ZipFile.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.AccessControl.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.DriveInfo.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.Primitives.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.Watcher.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.IsolatedStorage.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.MemoryMappedFiles.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Pipelines.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Pipes.AccessControl.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Pipes.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.UnmanagedMemoryStream.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Linq.Expressions.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Linq.Parallel.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Linq.Queryable.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Linq.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Memory.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Http.Json.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Http.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.HttpListener.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Mail.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.NameResolution.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.NetworkInformation.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Ping.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Primitives.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Quic.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Requests.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Security.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.ServicePoint.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Sockets.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebClient.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebHeaderCollection.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebProxy.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebSockets.Client.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebSockets.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Numerics.Vectors.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Numerics.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ObjectModel.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.CoreLib.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.DataContractSerialization.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.Uri.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.Xml.Linq.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.Xml.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.DispatchProxy.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Emit.ILGeneration.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Emit.Lightweight.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Emit.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Extensions.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Metadata.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Primitives.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.TypeExtensions.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Resources.Reader.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Resources.ResourceManager.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Resources.Writer.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.CompilerServices.Unsafe.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.CompilerServices.VisualC.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Extensions.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Handles.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.InteropServices.JavaScript.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.InteropServices.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Intrinsics.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Loader.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Numerics.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.Formatters.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.Json.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.Primitives.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.Xml.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.AccessControl.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Claims.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Algorithms.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Cng.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Csp.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Encoding.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.OpenSsl.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Primitives.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.X509Certificates.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Principal.Windows.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Principal.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.SecureString.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ServiceModel.Web.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ServiceProcess.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Encoding.CodePages.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Encoding.Extensions.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Encoding.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Encodings.Web.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Json.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.RegularExpressions.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Channels.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Overlapped.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Tasks.Dataflow.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Tasks.Extensions.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Tasks.Parallel.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Tasks.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Thread.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.ThreadPool.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Timer.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Transactions.Local.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Transactions.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ValueTuple.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Web.HttpUtility.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Web.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Windows.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.Linq.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.ReaderWriter.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.Serialization.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XDocument.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XPath.XDocument.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XPath.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XmlDocument.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XmlSerializer.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/WindowsBase.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscorlib.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/netstandard.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.DiaSymReader.Native.amd64.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.Native.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/clretwrc.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/clrgc.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/clrgcexp.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/clrjit.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/coreclr.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/createdump.exe
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/hostfxr.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/hostpolicy.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscordaccore.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscordaccore_amd64_amd64_9.0.124.61010.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscordbi.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscorrc.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/msquic.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.csproj.AssemblyReference.cache
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.GeneratedMSBuildEditorConfig.editorconfig
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.AssemblyInfoInputs.cache
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.AssemblyInfo.cs
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.csproj.CoreCompileInputs.cache
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-Ren.BB020B88.Up2Date
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/refint/RPbE-RenamePhotosByExif.dll
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.pdb
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.genruntimeconfig.cache
+d:/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/ref/RPbE-RenamePhotosByExif.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.exe
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.deps.json
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.runtimeconfig.json
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.pdb
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.Win32.SystemEvents.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Drawing.Common.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.Windows.Core.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.CSharp.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.VisualBasic.Core.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.VisualBasic.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.Win32.Primitives.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.Win32.Registry.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.AppContext.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Buffers.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.Concurrent.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.Immutable.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.NonGeneric.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.Specialized.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Collections.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.Annotations.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.DataAnnotations.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.EventBasedAsync.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.Primitives.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.TypeConverter.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ComponentModel.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Configuration.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Console.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Core.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Data.Common.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Data.DataSetExtensions.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Data.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Contracts.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Debug.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.DiagnosticSource.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.FileVersionInfo.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Process.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.StackTrace.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.TextWriterTraceListener.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Tools.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.TraceSource.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Diagnostics.Tracing.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Drawing.Primitives.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Drawing.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Dynamic.Runtime.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Formats.Asn1.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Formats.Tar.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Globalization.Calendars.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Globalization.Extensions.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Globalization.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.Brotli.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.FileSystem.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.ZipFile.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.AccessControl.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.DriveInfo.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.Primitives.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.Watcher.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.FileSystem.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.IsolatedStorage.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.MemoryMappedFiles.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Pipelines.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Pipes.AccessControl.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Pipes.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.UnmanagedMemoryStream.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Linq.Expressions.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Linq.Parallel.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Linq.Queryable.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Linq.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Memory.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Http.Json.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Http.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.HttpListener.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Mail.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.NameResolution.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.NetworkInformation.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Ping.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Primitives.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Quic.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Requests.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Security.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.ServicePoint.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.Sockets.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebClient.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebHeaderCollection.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebProxy.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebSockets.Client.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.WebSockets.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Net.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Numerics.Vectors.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Numerics.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ObjectModel.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.CoreLib.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.DataContractSerialization.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.Uri.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.Xml.Linq.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Private.Xml.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.DispatchProxy.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Emit.ILGeneration.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Emit.Lightweight.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Emit.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Extensions.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Metadata.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.Primitives.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.TypeExtensions.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Reflection.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Resources.Reader.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Resources.ResourceManager.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Resources.Writer.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.CompilerServices.Unsafe.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.CompilerServices.VisualC.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Extensions.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Handles.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.InteropServices.JavaScript.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.InteropServices.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Intrinsics.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Loader.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Numerics.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.Formatters.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.Json.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.Primitives.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.Xml.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.Serialization.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Runtime.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.AccessControl.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Claims.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Algorithms.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Cng.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Csp.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Encoding.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.OpenSsl.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.Primitives.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.X509Certificates.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Cryptography.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Principal.Windows.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.Principal.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.SecureString.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Security.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ServiceModel.Web.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ServiceProcess.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Encoding.CodePages.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Encoding.Extensions.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Encoding.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Encodings.Web.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.Json.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Text.RegularExpressions.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Channels.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Overlapped.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Tasks.Dataflow.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Tasks.Extensions.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Tasks.Parallel.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Tasks.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Thread.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.ThreadPool.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.Timer.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Threading.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Transactions.Local.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Transactions.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.ValueTuple.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Web.HttpUtility.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Web.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Windows.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.Linq.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.ReaderWriter.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.Serialization.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XDocument.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XPath.XDocument.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XPath.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XmlDocument.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.XmlSerializer.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.Xml.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/WindowsBase.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscorlib.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/netstandard.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/Microsoft.DiaSymReader.Native.amd64.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/System.IO.Compression.Native.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/clretwrc.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/clrgc.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/clrgcexp.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/clrjit.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/coreclr.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/createdump.exe
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/hostfxr.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/hostpolicy.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscordaccore.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscordaccore_amd64_amd64_9.0.225.6610.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscordbi.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/mscorrc.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/msquic.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.csproj.AssemblyReference.cache
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.AssemblyInfoInputs.cache
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.AssemblyInfo.cs
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.csproj.CoreCompileInputs.cache
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-Ren.BB020B88.Up2Date
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/refint/RPbE-RenamePhotosByExif.dll
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.pdb
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/RPbE-RenamePhotosByExif.genruntimeconfig.cache
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/obj/Release/net9.0/win-x64/ref/RPbE-RenamePhotosByExif.dll

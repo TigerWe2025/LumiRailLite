@@ -1,0 +1,2 @@
+/Volumes/share/DevProject/LumiRailLite/LumiRailLite/bin/Release/net9.0/win-x64/publish/LumiRailLite.pdb
+/Volumes/share/DevProject/LumiRailLite/LumiRailLite/bin/Release/net9.0/win-x64/publish/LumiRailLite.exe

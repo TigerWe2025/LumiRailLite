@@ -1,0 +1,2 @@
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/publish/RPbE-RenamePhotosByExif.pdb
+/Users/gaofrank/Library/CloudStorage/OneDrive-个人/X - 项目库/RPbE - RenamePhotosByExif/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/publish/RPbE-RenamePhotosByExif.exe

@@ -1,0 +1,2 @@
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/publish/RPbE-RenamePhotosByExif.pdb
+/Volumes/share/DevProject/RPbE-RenamePhotosByExif/RPbE-RenamePhotosByExif/bin/Release/net9.0/win-x64/publish/RPbE-RenamePhotosByExif.exe

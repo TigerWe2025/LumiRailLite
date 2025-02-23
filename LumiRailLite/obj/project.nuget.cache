@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "D030UwpRxTs=",
+  "success": true,
+  "projectFilePath": "/Volumes/share/DevProject/LumiRailLite/LumiRailLite/LumiRailLite.csproj",
+  "expectedPackageFiles": [
+    "/Users/gaofrank/.nuget/packages/microsoft.net.illink.tasks/9.0.2/microsoft.net.illink.tasks.9.0.2.nupkg.sha512",
+    "/Users/gaofrank/.nuget/packages/microsoft.win32.systemevents/9.0.2/microsoft.win32.systemevents.9.0.2.nupkg.sha512",
+    "/Users/gaofrank/.nuget/packages/system.drawing.common/9.0.2/system.drawing.common.9.0.2.nupkg.sha512",
+    "/Users/gaofrank/.nuget/packages/microsoft.netcore.app.runtime.win-x64/9.0.2/microsoft.netcore.app.runtime.win-x64.9.0.2.nupkg.sha512",
+    "/Users/gaofrank/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/9.0.2/microsoft.aspnetcore.app.runtime.win-x64.9.0.2.nupkg.sha512",
+    "/Users/gaofrank/.nuget/packages/microsoft.netcore.app.host.win-x64/9.0.2/microsoft.netcore.app.host.win-x64.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
